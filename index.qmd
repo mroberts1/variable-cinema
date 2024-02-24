@@ -11,6 +11,13 @@ format:
     smooth-scroll: true 
     linkcolor: "#62259d"
     page-layout: article
+  typst:
+    papersize: us-letter
+    mainfont: "Source Serif Pro"
+    fontsize: 14pt
+    margin:
+      x: 1.25in
+      y: 1.25in
 fig-responsive: true
 embed-resources: false
 link-external-icon: false
@@ -39,7 +46,7 @@ Society for Cinema Studies Conference, 23 May 2002\
 Martin Roberts\
 [{{< fa regular envelope >}}](mailto:dokossho@sdf.org) \| [{{< fa brands mastodon >}}](https://merveilles.town/@dokoissho) \| [{{< fa brands github >}}](https://github.com/mroberts1/) \| [{{< fa brands facebook >}}](https://facebook.com/mr05301) \| [{{< fa brands twitter >}}](https://twitter.com/dokoissho)
 
-[Download](variable-cinema.pdf)
+[Download](index.pdf)
 
 > The introduction of QuickTime in 1991 can be compared to the introduction of the Kinetoscope in 1892: both were used to present short loops, both featured images approximately two by three inches in size, both called for private viewing rather than collective exhibition. The two technologies even appear to play a similar cultural role. If in the early 1890s the public patronized Kinetoscope parlors where peep-hole machines presented them with the latest marvel---tiny, moving photographs arranged in short loops---exactly a hundred years later, computer users were equally fascinated with tiny QuickTime movies that turned a computer into a film projector, however imperfect. Finally, the Lumières' first film screenings of 1895 that shocked their audiences with huge moving images found their parallel in 1995 CD-ROMs in which the moving image finally fills the entire computer screen. ... Thus, exactly a hundred years after cinema was officially 'born,' it was reinvented on a computer screen (Manovich 2000: 313).
 
